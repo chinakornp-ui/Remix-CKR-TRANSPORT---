@@ -1,0 +1,8 @@
+{
+  "name": "Remix CKR TRANSPORT - ระบบจองรถรับ–ส่งนักศึกษา",
+  "description": "ระบบจองรถรับ–ส่งนักศึกษาและรถไปแหล่งฝึก วิทยาลัยพยาบาลบรมราชชนนี จักรีรัช พร้อมระบบตรวจตั๋ว QR Code และรายงาน Real-Time",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
